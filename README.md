@@ -2,7 +2,7 @@
 
 ## An example of an e-commerce site for athletic wear
 
-Find deployed site here:
+Find deployed site here: https://day-dream-athletics.herokuapp.com/
 
 We have created an e-commerce site that specializes in athletic wear for men, women, and children.
 Users are able to browse the different categories, as well as a special World Cup section as the tournament is currently on-going. Users can look at product descriptions, and they can add their products to a cart for purchase. In order to complete their purchase, users will need to have an account, which will also automatically apply members' discounts.
