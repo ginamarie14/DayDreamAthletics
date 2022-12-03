@@ -1,11 +1,26 @@
-# Group-6-Final-Project
+# Dreamwear Athletics
 
-## Dreamwear Athletic
+## An example of an e-commerce site for athletic wear
+
+Find deployed site here:
 
 We have created an e-commerce site that specializes in athletic wear for men, women, and children.
 Users are able to browse the different categories, as well as a special World Cup section as the tournament is currently on-going. Users can look at product descriptions, and they can add their products to a cart for purchase. In order to complete their purchase, users will need to have an account, which will also automatically apply members' discounts.
 
 Our site includes a navigation bar, a search function, a carousel, product cards, and a side bar to filter products.
+
+<img width="873" alt="proj-1" src="https://user-images.githubusercontent.com/44861723/205418761-262ee8e0-c9df-4c19-a067-92f659895156.png">
+
+<img width="872" alt="proj-2" src="https://user-images.githubusercontent.com/44861723/205418764-8bbb3bcf-4f50-45a4-a7ec-30a110839da3.png">
+
+<img width="881" alt="proj-3" src="https://user-images.githubusercontent.com/44861723/205418767-90a437d0-c170-4f4e-9837-34cec0c3386b.png">
+
+<img width="874" alt="proj-4" src="https://user-images.githubusercontent.com/44861723/205418771-170e2ee2-02d3-45f7-b4bb-1699fd9ecb0a.png">
+
+
+Front-end was handled by [Hunter Brennan](https://github.com/HunterBrennan1), and Back-end was handled by [Gina Marie Enriquez](https://github.com/ginamarie14).
+
+
 
 
 
